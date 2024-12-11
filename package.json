@@ -1,0 +1,23 @@
+{
+  "name": "rtk-demo",
+  "version": "1.0.0",
+  "description": "RTK demo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekShubhamRajput/rtk-demo.git"
+  },
+  "author": "Shubham Rajput",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeekShubhamRajput/rtk-demo/issues"
+  },
+  "homepage": "https://github.com/GeekShubhamRajput/rtk-demo#readme",
+  "dependencies": {
+    "redux-thunk": "^3.1.0"
+  }
+}
