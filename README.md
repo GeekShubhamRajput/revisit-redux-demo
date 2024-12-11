@@ -1,2 +1,2 @@
-# Redux Toolkit Demo
-🚀 A concise project demonstrating Redux Toolkit's core features like slices, reducers, and state management for React apps. 🎯
+# Revisit Redux Demo
+🚀A simple demo showcasing how to use Redux with React, demonstrating state management through actions, reducers, and the Redux store. 🎯
